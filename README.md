@@ -1,10 +1,10 @@
 
 
 
-# PIPOLKONEK :blush:
+# PIPOL KONEK :blush:
 This website serves as for demonstration for the Internet Media and Information Literacy Training.
 
-### download a repository on GitHub.com to our machine :thumbsup:
+### You can download the file using git command, just paste the code below :thumbsup:
 ```
 git clone https://github.com/DICT-VC2/PIPOLKONEK.git
 ```
