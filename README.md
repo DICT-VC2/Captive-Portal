@@ -22,7 +22,7 @@ https://github.com/DICT-VC2/PIPOLKONEK/archive/master.zip
 ```
 http://localhost:8080/Pipol_Konek/JUANKONEK/JUAN%20KONEK.html
 ```
-or you can change the ```localhost:8080``` to ```<IP address of server machine:8080``` like this one:
+or you can change the ```localhost:8080``` to ```<IP address of server machine>:8080``` like this one:
 ```
 http://192.168.0.100:8080/Pipol_Konek/JUANKONEK/JUAN%20KONEK.html
 ```
