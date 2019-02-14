@@ -26,4 +26,4 @@ or you can change the ```localhost:8080``` to ```<IP address of server machine>:
 ```
 http://192.168.0.100:8080/Pipol_Konek/JUANKONEK/JUAN%20KONEK.html
 ```
-#### Note: Don't forget, it must be within same local area network connected
+#### Note: Don't forget, it must be within same local area network
